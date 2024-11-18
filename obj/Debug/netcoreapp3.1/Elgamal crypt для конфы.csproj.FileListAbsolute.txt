@@ -1,0 +1,48 @@
+C:\Users\Admin\source\repos\Elgamal crypt для конфы\Elgamal crypt для конфы\bin\Debug\netcoreapp3.1\Elgamal crypt для конфы.exe
+C:\Users\Admin\source\repos\Elgamal crypt для конфы\Elgamal crypt для конфы\bin\Debug\netcoreapp3.1\Elgamal crypt для конфы.deps.json
+C:\Users\Admin\source\repos\Elgamal crypt для конфы\Elgamal crypt для конфы\bin\Debug\netcoreapp3.1\Elgamal crypt для конфы.runtimeconfig.json
+C:\Users\Admin\source\repos\Elgamal crypt для конфы\Elgamal crypt для конфы\bin\Debug\netcoreapp3.1\Elgamal crypt для конфы.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Elgamal crypt для конфы\Elgamal crypt для конфы\bin\Debug\netcoreapp3.1\Elgamal crypt для конфы.dll
+C:\Users\Admin\source\repos\Elgamal crypt для конфы\Elgamal crypt для конфы\bin\Debug\netcoreapp3.1\Elgamal crypt для конфы.pdb
+C:\Users\Admin\source\repos\Elgamal crypt для конфы\Elgamal crypt для конфы\obj\Debug\netcoreapp3.1\Elgamal crypt для конфы.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Elgamal crypt для конфы\Elgamal crypt для конфы\obj\Debug\netcoreapp3.1\Elgamal_crypt_для_конфы.Form1.resources
+C:\Users\Admin\source\repos\Elgamal crypt для конфы\Elgamal crypt для конфы\obj\Debug\netcoreapp3.1\Elgamal crypt для конфы.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\Elgamal crypt для конфы\Elgamal crypt для конфы\obj\Debug\netcoreapp3.1\Elgamal crypt для конфы.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\Elgamal crypt для конфы\Elgamal crypt для конфы\obj\Debug\netcoreapp3.1\Elgamal crypt для конфы.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Elgamal crypt для конфы\Elgamal crypt для конфы\obj\Debug\netcoreapp3.1\Elgamal crypt для конфы.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Elgamal crypt для конфы\Elgamal crypt для конфы\obj\Debug\netcoreapp3.1\Elgamal crypt для конфы.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Elgamal crypt для конфы\Elgamal crypt для конфы\obj\Debug\netcoreapp3.1\Elgamal crypt для конфы.dll
+C:\Users\Admin\source\repos\Elgamal crypt для конфы\Elgamal crypt для конфы\obj\Debug\netcoreapp3.1\Elgamal crypt для конфы.pdb
+C:\Users\Admin\source\repos\Elgamal crypt для конфы\Elgamal crypt для конфы\obj\Debug\netcoreapp3.1\Elgamal crypt для конфы.genruntimeconfig.cache
+E:\конфа\Elgamal crypt для конфы\Elgamal crypt для конфы\bin\Debug\netcoreapp3.1\Elgamal crypt для конфы.exe
+E:\конфа\Elgamal crypt для конфы\Elgamal crypt для конфы\bin\Debug\netcoreapp3.1\Elgamal crypt для конфы.deps.json
+E:\конфа\Elgamal crypt для конфы\Elgamal crypt для конфы\bin\Debug\netcoreapp3.1\Elgamal crypt для конфы.runtimeconfig.json
+E:\конфа\Elgamal crypt для конфы\Elgamal crypt для конфы\bin\Debug\netcoreapp3.1\Elgamal crypt для конфы.runtimeconfig.dev.json
+E:\конфа\Elgamal crypt для конфы\Elgamal crypt для конфы\bin\Debug\netcoreapp3.1\Elgamal crypt для конфы.dll
+E:\конфа\Elgamal crypt для конфы\Elgamal crypt для конфы\bin\Debug\netcoreapp3.1\Elgamal crypt для конфы.pdb
+E:\конфа\Elgamal crypt для конфы\Elgamal crypt для конфы\obj\Debug\netcoreapp3.1\Elgamal crypt для конфы.csproj.AssemblyReference.cache
+E:\конфа\Elgamal crypt для конфы\Elgamal crypt для конфы\obj\Debug\netcoreapp3.1\Elgamal_crypt_для_конфы.Form1.resources
+E:\конфа\Elgamal crypt для конфы\Elgamal crypt для конфы\obj\Debug\netcoreapp3.1\Elgamal crypt для конфы.csproj.GenerateResource.cache
+E:\конфа\Elgamal crypt для конфы\Elgamal crypt для конфы\obj\Debug\netcoreapp3.1\Elgamal crypt для конфы.GeneratedMSBuildEditorConfig.editorconfig
+E:\конфа\Elgamal crypt для конфы\Elgamal crypt для конфы\obj\Debug\netcoreapp3.1\Elgamal crypt для конфы.AssemblyInfoInputs.cache
+E:\конфа\Elgamal crypt для конфы\Elgamal crypt для конфы\obj\Debug\netcoreapp3.1\Elgamal crypt для конфы.AssemblyInfo.cs
+E:\конфа\Elgamal crypt для конфы\Elgamal crypt для конфы\obj\Debug\netcoreapp3.1\Elgamal crypt для конфы.csproj.CoreCompileInputs.cache
+E:\конфа\Elgamal crypt для конфы\Elgamal crypt для конфы\obj\Debug\netcoreapp3.1\Elgamal crypt для конфы.dll
+E:\конфа\Elgamal crypt для конфы\Elgamal crypt для конфы\obj\Debug\netcoreapp3.1\Elgamal crypt для конфы.pdb
+E:\конфа\Elgamal crypt для конфы\Elgamal crypt для конфы\obj\Debug\netcoreapp3.1\Elgamal crypt для конфы.genruntimeconfig.cache
+c:\Users\Admin\source\repos\Elgamal crypt для конфы (только латиница)\Elgamal crypt для конфы\bin\Debug\netcoreapp3.1\Elgamal crypt для конфы.exe
+c:\Users\Admin\source\repos\Elgamal crypt для конфы (только латиница)\Elgamal crypt для конфы\bin\Debug\netcoreapp3.1\Elgamal crypt для конфы.deps.json
+c:\Users\Admin\source\repos\Elgamal crypt для конфы (только латиница)\Elgamal crypt для конфы\bin\Debug\netcoreapp3.1\Elgamal crypt для конфы.runtimeconfig.json
+c:\Users\Admin\source\repos\Elgamal crypt для конфы (только латиница)\Elgamal crypt для конфы\bin\Debug\netcoreapp3.1\Elgamal crypt для конфы.runtimeconfig.dev.json
+c:\Users\Admin\source\repos\Elgamal crypt для конфы (только латиница)\Elgamal crypt для конфы\bin\Debug\netcoreapp3.1\Elgamal crypt для конфы.dll
+c:\Users\Admin\source\repos\Elgamal crypt для конфы (только латиница)\Elgamal crypt для конфы\bin\Debug\netcoreapp3.1\Elgamal crypt для конфы.pdb
+c:\Users\Admin\source\repos\Elgamal crypt для конфы (только латиница)\Elgamal crypt для конфы\obj\Debug\netcoreapp3.1\Elgamal crypt для конфы.csproj.AssemblyReference.cache
+c:\Users\Admin\source\repos\Elgamal crypt для конфы (только латиница)\Elgamal crypt для конфы\obj\Debug\netcoreapp3.1\Elgamal_crypt_для_конфы.Form1.resources
+c:\Users\Admin\source\repos\Elgamal crypt для конфы (только латиница)\Elgamal crypt для конфы\obj\Debug\netcoreapp3.1\Elgamal crypt для конфы.csproj.GenerateResource.cache
+c:\Users\Admin\source\repos\Elgamal crypt для конфы (только латиница)\Elgamal crypt для конфы\obj\Debug\netcoreapp3.1\Elgamal crypt для конфы.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Admin\source\repos\Elgamal crypt для конфы (только латиница)\Elgamal crypt для конфы\obj\Debug\netcoreapp3.1\Elgamal crypt для конфы.AssemblyInfoInputs.cache
+c:\Users\Admin\source\repos\Elgamal crypt для конфы (только латиница)\Elgamal crypt для конфы\obj\Debug\netcoreapp3.1\Elgamal crypt для конфы.AssemblyInfo.cs
+c:\Users\Admin\source\repos\Elgamal crypt для конфы (только латиница)\Elgamal crypt для конфы\obj\Debug\netcoreapp3.1\Elgamal crypt для конфы.csproj.CoreCompileInputs.cache
+c:\Users\Admin\source\repos\Elgamal crypt для конфы (только латиница)\Elgamal crypt для конфы\obj\Debug\netcoreapp3.1\Elgamal crypt для конфы.dll
+c:\Users\Admin\source\repos\Elgamal crypt для конфы (только латиница)\Elgamal crypt для конфы\obj\Debug\netcoreapp3.1\Elgamal crypt для конфы.pdb
+c:\Users\Admin\source\repos\Elgamal crypt для конфы (только латиница)\Elgamal crypt для конфы\obj\Debug\netcoreapp3.1\Elgamal crypt для конфы.genruntimeconfig.cache
